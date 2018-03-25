@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+    }
+]
