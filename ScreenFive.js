@@ -9,8 +9,20 @@ import {
   Text,
 
 } from 'react-native';
+import Firebase from "./firebase";
+import FireStore from "./firestore.js";
+import { observer } from 'mobx-react';
 
+
+
+@observer
 class ScreenFive extends Component {
+  constructor(props) {
+    super(props);
+
+    Firebase.init();}
+  
+
 
   render() {
     const { state, navigate } = this.props.navigation;
@@ -28,14 +40,21 @@ class ScreenFive extends Component {
           placeholder="First Name"
           underlineColorAndroid="transparent"
           placeholderTextColor="black"
-          style={styles.input}/>
+          style={styles.input}
+          onChangeText={ (text) => { FireStore.register.firstName = text }}
+          value={FireStore.register.firstName}
+          />
       </View>
       <View style={styles.border}>
         <TextInput
           placeholder="Last Name"
           underlineColorAndroid="transparent"
           placeholderTextColor="black"
-          style={styles.input}/>
+          style={styles.input}
+          onChangeText={ (text) => { FireStore.register.lastName = text ;
+            FireStore.register.name=FireStore.register.firstName+" "+FireStore.register.lastName; }}
+          value={FireStore.register.lastName}
+          />
       </View>
 
       <View style={styles.border}>
@@ -43,7 +62,11 @@ class ScreenFive extends Component {
           placeholder="Phone Number"
           underlineColorAndroid="transparent"
           placeholderTextColor="black"
-          style={styles.input}/>
+          style={styles.input}
+          onChangeText={ (text) => { FireStore.register.phoneNumber = text }}
+          value={FireStore.register.phoneNumber}
+          
+          />
       </View>
 
       <View style={styles.border}>
@@ -51,7 +74,10 @@ class ScreenFive extends Component {
           placeholder="E-mail"
           underlineColorAndroid="transparent"
           placeholderTextColor="black"
-          style={styles.input}/>
+          style={styles.input}
+          onChangeText={ (text) => { FireStore.register.email = text }}
+          value={FireStore.register.email}
+          />
       </View>
 
 
@@ -61,7 +87,11 @@ class ScreenFive extends Component {
         placeholder="Password"
         underlineColorAndroid="transparent"
         placeholderTextColor="black"
-        style={styles.input}/>
+        style={styles.input}
+        onChangeText={ (text) => { FireStore.register.password = text }}
+        secureTextEntry={true}
+        value={FireStore.register.password}
+        />
       </View>
 
       </View>
@@ -69,7 +99,10 @@ class ScreenFive extends Component {
         <TouchableHighlight
           color="black"
           style={styles.TouchableHighlight}
-          onPress={() => navigate("ScreenFive", { screen: "ScreenFive" })}
+          onPress={() => {
+            FireStore.registerFirebase(FireStore.register.email,FireStore.register.password)
+            navigate("ScreenFour", { screen: "ScreenFour" });
+          }}
           >
           <Text style={styles.texts}>SIGN UP</Text>
           </TouchableHighlight>
@@ -77,7 +110,7 @@ class ScreenFive extends Component {
 
         <Text
         style={styles.already}
-        onPress={() => navigate("ScreenFour", { screen: "ScreenFour" })}>
+        onPress={() => navigate("ScreenFour",{screen:"ScreenFour"}) }>
         already have an account? </Text>
 
 
@@ -127,11 +160,11 @@ border:{
 
 input:{
   backgroundColor:'white',
-  height:38,
+  height:34,
   marginBottom:10,
   marginTop:5,
   color:"black",
-  paddingHorizontal:1,
+  padding:2,
   marginLeft:20,
   marginRight:20,
   fontSize:15,

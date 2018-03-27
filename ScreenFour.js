@@ -8,9 +8,16 @@ import {
   Text
 
 } from 'react-native';
+import Firebase from "./firebase.js";
+import FireStore from "./firestore.js";
+import { observer } from 'mobx-react';
 
+@observer
 class ScreenFour extends Component {
+  constructor(props){
+    super(props);
 
+  }
   render() {
     const { state, navigate } = this.props.navigation;
     return (
@@ -27,7 +34,9 @@ class ScreenFour extends Component {
           placeholder="E-mail"
           underlineColorAndroid="transparent"
           placeholderTextColor="black"
-          style={styles.input}/>
+          style={styles.input}
+          onChangeText={(text)=>FireStore.Login.email=text}
+          />
       </View>
 
 
@@ -36,7 +45,9 @@ class ScreenFour extends Component {
         placeholder="Password"
         underlineColorAndroid="transparent"
         placeholderTextColor="black"
-        style={styles.input}/>
+        style={styles.input}
+        onChangeText={(text)=>FireStore.Login.password=text}
+        />
       </View>
 
       </View>
@@ -44,10 +55,40 @@ class ScreenFour extends Component {
         <TouchableHighlight
           color="black"
           style={styles.TouchableHighlight}
-          onPress={ ()=> navigate("ScreenSix", { screen: "ScreenSix" })}
+          onPress={ ()=> { FireStore.signIn(FireStore.Login.email,FireStore.Login.password);
+            Firebase.auth.onAuthStateChanged(function(user) {
+            if (user) {
+              
+             this.welcome = true;
+             navigate("ScreenSix", {screen: "ScreenSix"});
+
+
+
+             Firebase.auth.setPersistence(firebase.auth.Auth.Persistence.LOCAL)
+             .then(function() {
+               // Existing and future Auth states are now persisted in the current
+               // session only. Closing the window would clear any existing state even
+               // if a user forgets to sign out.
+               // ...
+               // New sign-in will be persisted with session persistence.
+                return firebase.auth().signInWithEmailAndPassword(email, password);
+              alert("i did work")
+
+
+
+             })
+             .catch(function(error) {
+               // Handle Errors here.
+               var errorCode = error.code;
+               var errorMessage = error.message;
+             });
+
+            }
+          }); } } 
           >
           <Text style={styles.texts}>LOGIN</Text>
           </TouchableHighlight>
+          
       </View>
 
       <Text style={styles.already}>Forgot Password?</Text>
@@ -123,11 +164,11 @@ border:{
 
 input:{
   backgroundColor:'white',
-  height:38,
+  height:34,
   marginBottom:10,
   marginTop:5,
   color:"black",
-  paddingHorizontal:1,
+  padding:2,
   marginLeft:20,
   marginRight:20,
   fontSize:15,

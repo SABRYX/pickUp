@@ -12,6 +12,7 @@ import ScreenNine from "./ScreenNine.js";
 import ScreenTen from "./ScreenTen.js";
 import ScreenEleven from "./ScreenEleven.js";
 import ScreenSix from './ScreenSix.js';
+import LogOut from "./logOut.js";
 
 
 const HomeScreenRouter = DrawerNavigator(
@@ -25,6 +26,7 @@ const HomeScreenRouter = DrawerNavigator(
     ScreenNine:{screen:ScreenNine},
     ScreenTen:{screen:ScreenTen},
     ScreenEleven:{screen:ScreenEleven},
+    LogOut:{screen:LogOut}
 
 
   },

@@ -6,11 +6,29 @@ import {
   Image,
   Text
 } from 'react-native';
+import { observer } from 'mobx-react';
+import FireStore from "./firestore";
+import Firebase from "./firebase"; 
 
+@observer
 class ScreenTwo extends Component {
+  constructor(props){
+    super(props);
+    Firebase.init();
+  }
+
   componentWillMount () {
           const { navigate } = this.props.navigation;
-        setTimeout(() => navigate("ScreenThree", {screen: "Screen Three"}),40);
+          Firebase.auth.onAuthStateChanged(function(user) {
+            if (user) {
+             FireStore.welcome = true;
+             alert("you are logged in my lord")
+            }
+            else{
+                alert("please make a user")
+            }
+          });
+        setTimeout(() => navigate("ScreenThree", {screen: "Screen Three"}),4000);
 
       }
 

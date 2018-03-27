@@ -9,7 +9,7 @@ import {
   Content,
 } from "native-base";
 import { Avatar } from 'react-native-elements';
-const routes = ["Home","Follow","Transporter","About"];
+const routes = ["Home","Follow","Transporter","About","LogOut"];
 export default class SideBar extends React.Component {
   render() {
     const name = "Altair The Son"

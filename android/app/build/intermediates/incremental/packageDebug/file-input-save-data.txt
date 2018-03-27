@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Mar 24 12:57:05 EET 2018
+#Sun Mar 25 18:39:20 EET 2018
 20.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 340.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png
@@ -47,7 +47,7 @@
 327.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 66.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 189.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-83.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+83.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_disabled.xml
 386.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png
 74.set=ANDROID_RESOURCE
 325.set=ANDROID_RESOURCE
@@ -76,7 +76,7 @@
 273.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 290.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\arm64-v8a\\libimagepipeline.so
 356.set=ANDROID_RESOURCE
-120.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\common_google_signin_btn_text_dark.xml
+120.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png
 153.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
 279.set=NATIVE_RESOURCE
 324.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
@@ -84,7 +84,7 @@
 37.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 157.set=ANDROID_RESOURCE
 63.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_menu_item_layout.xml
-186.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+186.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_top.xml
 96.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_menu_layout.xml
 82.set=ANDROID_RESOURCE
 221.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -94,7 +94,7 @@
 134.set=ANDROID_RESOURCE
 117.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 11.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_in_bottom.xml
-314.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png
+314.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
 179.set=ANDROID_RESOURCE
 27.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 176.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png
@@ -109,7 +109,7 @@
 364.set=ANDROID_RESOURCE
 17.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 34.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png
-337.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_radio.xml
+337.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png
 287.set=NATIVE_RESOURCE
 199.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png
 210.set=ANDROID_RESOURCE
@@ -134,7 +134,7 @@
 241.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\catalyst_push_up_out.xml
 241.set=ANDROID_RESOURCE
 257.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-104.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\place_autocomplete_fragment.xml
+104.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
 137.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
 308.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png
 47.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml
@@ -146,7 +146,7 @@
 3.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 231.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v23\\abc_control_background_material.xml
 402.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\powered_by_google_light.png
-264.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png
+264.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png
 418.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 297.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\place_autocomplete_item_prediction.xml
 127.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
@@ -203,7 +203,7 @@
 145.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 22.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 171.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png
-342.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+342.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\places_ic_search.png
 55.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 86.set=ANDROID_RESOURCE
 337.set=ANDROID_RESOURCE
@@ -225,7 +225,7 @@
 168.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 237.set=ANDROID_RESOURCE
 194.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png
-365.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_light.xml
+365.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
 115.set=ANDROID_RESOURCE
 78.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 398.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_lines.xml
@@ -259,12 +259,12 @@
 16.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 165.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\assets\\debug\\fonts\\MaterialIcons.ttf
 148.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-42.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
+42.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml
 399.set=ANDROID_RESOURCE
 319.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 71.set=ANDROID_RESOURCE
 322.set=NATIVE_RESOURCE
-75.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_search_dropdown_item_icons_2line.xml
+75.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
 245.set=ANDROID_RESOURCE
 123.set=ANDROID_RESOURCE
 413.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -276,17 +276,17 @@
 155.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png
 299.set=ANDROID_RESOURCE
 309.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-326.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png
+326.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 222.set=ANDROID_RESOURCE
 39.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 188.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\assets\\debug\\fonts\\Zocial.ttf
-65.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+65.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_tab_indicator_material.xml
 100.set=ANDROID_RESOURCE
 98.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png
 223.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 353.set=ANDROID_RESOURCE
-420.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\abc_screen_toolbar.xml
-282.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
+420.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png
+282.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\switch_thumb_material_dark.xml
 276.set=ANDROID_RESOURCE
 154.set=ANDROID_RESOURCE
 119.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -320,7 +320,7 @@
 407.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 361.set=ANDROID_RESOURCE
 269.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-116.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_dialog_material_background_dark.xml
+116.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\catalyst_slide_up.xml
 284.set=ANDROID_RESOURCE
 26.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png
 162.set=ASSET
@@ -339,7 +339,7 @@
 184.set=NATIVE_RESOURCE
 139.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\assets\\debug\\fonts\\MaterialCommunityIcons.ttf
 140.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-49.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_part_chronometer.xml
+49.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\places_ic_clear.png
 409.set=NATIVE_RESOURCE
 392.set=ANDROID_RESOURCE
 36.set=NATIVE_RESOURCE
@@ -352,7 +352,7 @@
 233.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_light.xml
 404.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png
 266.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libyoga.so
-299.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+299.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
 129.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\jsr305_annotations\\Jsr305_annotations.gwt.xml
 13.set=ANDROID_RESOURCE
 130.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -360,7 +360,7 @@
 292.set=ANDROID_RESOURCE
 40.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 163.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-360.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png
+360.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_media.xml
 73.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 393.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
 256.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
@@ -376,7 +376,7 @@
 324.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 63.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 186.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-80.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png
+80.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png
 417.set=ANDROID_RESOURCE
 383.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png
 44.set=ANDROID_RESOURCE
@@ -448,7 +448,7 @@
 234.set=ANDROID_RESOURCE
 127.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 21.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml
-144.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_out.xml
+144.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\powered_by_google_light.png
 112.set=ANDROID_RESOURCE
 54.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
 357.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\powered_by_google_dark.png
@@ -476,7 +476,7 @@
 143.set=ANDROID_RESOURCE
 0.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 188.set=ASSET
-261.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png
+261.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
 415.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 294.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_spinner_textfield_background_material.xml
 277.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -490,7 +490,7 @@
 191.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 225.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 373.set=ANDROID_RESOURCE
-251.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+251.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 17.set=ANDROID_RESOURCE
 284.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_popup_exit.xml
 296.set=ANDROID_RESOURCE
@@ -559,7 +559,7 @@
 207.set=ANDROID_RESOURCE
 362.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png
 75.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-395.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
+395.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
 258.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_checkbox.xml
 87.set=ANDROID_RESOURCE
 338.set=ANDROID_RESOURCE
@@ -571,7 +571,7 @@
 326.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 65.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 188.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\assets\\debug
-82.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_disabled.xml
+82.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
 385.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libimagepipeline.so
 64.set=ANDROID_RESOURCE
 315.set=ANDROID_RESOURCE
@@ -604,7 +604,7 @@
 62.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png
 185.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_light_normal.xml
 339.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-95.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml
+95.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
 219.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png
 72.set=ANDROID_RESOURCE
 220.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -613,7 +613,7 @@
 124.set=ANDROID_RESOURCE
 116.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 10.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\abc_alert_dialog_material.xml
-313.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
+313.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png
 26.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 175.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_dark.xml
 346.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
@@ -630,7 +630,7 @@
 354.set=ANDROID_RESOURCE
 139.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\assets\\debug
 33.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
-336.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png
+336.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_radio.xml
 49.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 277.set=ANDROID_RESOURCE
 198.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_mode_bar.xml
@@ -654,7 +654,7 @@
 132.set=ANDROID_RESOURCE
 56.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png
 177.set=ANDROID_RESOURCE
-359.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_media.xml
+359.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png
 89.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png
 360.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 385.set=NATIVE_RESOURCE
@@ -663,7 +663,7 @@
 240.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png
 231.set=ANDROID_RESOURCE
 256.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-103.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
+103.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\place_autocomplete_fragment.xml
 289.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 136.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png
 307.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libfolly_json.so
@@ -678,7 +678,7 @@
 230.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\assets\\debug\\fonts\\Ionicons.ttf
 2.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 401.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
-263.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+263.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png
 417.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 279.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 296.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\place_autocomplete_item_powered_by_google.xml
@@ -763,7 +763,7 @@
 61.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png
 227.set=ANDROID_RESOURCE
 193.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\assets\\debug\\fonts\\rubicon-icon-font.ttf
-364.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
+364.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_light.xml
 105.set=ANDROID_RESOURCE
 77.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 397.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\switch_thumb_material_light.xml
@@ -779,7 +779,7 @@
 157.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 51.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png
 328.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-354.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png
+354.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png
 67.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 84.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
 387.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_part_time.xml
@@ -795,7 +795,7 @@
 15.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 164.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\catalyst_push_up_in.xml
 147.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-41.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml
+41.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
 389.set=ANDROID_RESOURCE
 318.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 61.set=ANDROID_RESOURCE
@@ -811,12 +811,12 @@
 121.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_media.xml
 154.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_holo_dark.xml
 289.set=ANDROID_RESOURCE
-325.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+325.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png
 212.set=ANDROID_RESOURCE
 38.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 167.set=ANDROID_RESOURCE
-64.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_tab_indicator_material.xml
-187.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_top.xml
+64.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+187.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
 97.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png
 92.set=ANDROID_RESOURCE
 222.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -867,7 +867,7 @@
 105.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png
 174.set=ANDROID_RESOURCE
 138.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png
-48.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\places_ic_clear.png
+48.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_part_chronometer.xml
 382.set=ANDROID_RESOURCE
 26.set=ANDROID_RESOURCE
 82.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -877,7 +877,7 @@
 403.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png
 265.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png
 419.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-298.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
+298.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 128.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\catalyst_fade_out.xml
 300.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 282.set=ANDROID_RESOURCE
@@ -924,7 +924,7 @@
 117.set=ANDROID_RESOURCE
 182.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\select_dialog_multichoice_material.xml
 336.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-353.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png
+353.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png
 190.set=ANDROID_RESOURCE
 198.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 92.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png
@@ -939,7 +939,7 @@
 146.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 23.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 172.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_toolbar.xml
-343.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\places_ic_search.png
+343.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
 56.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 96.set=ANDROID_RESOURCE
 347.set=ANDROID_RESOURCE
@@ -977,7 +977,7 @@
 224.set=ANDROID_RESOURCE
 126.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 20.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_part_chronometer.xml
-143.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\powered_by_google_light.png
+143.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_out.xml
 102.set=ANDROID_RESOURCE
 159.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 53.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
@@ -1003,7 +1003,7 @@
 43.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png
 81.set=ANDROID_RESOURCE
 332.set=ANDROID_RESOURCE
-76.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
+76.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_search_dropdown_item_icons_2line.xml
 255.set=ANDROID_RESOURCE
 380.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 133.set=ANDROID_RESOURCE
@@ -1025,8 +1025,8 @@
 224.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 363.set=ANDROID_RESOURCE
 250.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png
-421.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png
-283.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\switch_thumb_material_dark.xml
+421.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\abc_screen_toolbar.xml
+283.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
 286.set=ANDROID_RESOURCE
 164.set=ANDROID_RESOURCE
 14.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
@@ -1056,7 +1056,7 @@
 408.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 371.set=ANDROID_RESOURCE
 15.set=NATIVE_RESOURCE
-117.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\catalyst_slide_up.xml
+117.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_dialog_material_background_dark.xml
 294.set=ANDROID_RESOURCE
 27.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
 331.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1093,7 +1093,7 @@
 164.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 361.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_popup_menu_item_layout.xml
 74.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-394.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+394.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
 count=422
 257.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_part_time.xml
 77.set=ANDROID_RESOURCE
@@ -1105,7 +1105,7 @@ count=422
 325.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 64.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 187.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-81.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png
+81.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png
 384.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png
 54.set=ANDROID_RESOURCE
 305.set=ANDROID_RESOURCE
@@ -1134,7 +1134,7 @@ count=422
 137.set=DEX
 184.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libjsc.so
 338.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-94.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
+94.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml
 218.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
 62.set=ANDROID_RESOURCE
 313.set=ANDROID_RESOURCE
@@ -1203,7 +1203,7 @@ count=422
 400.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libreactnativejni.so
 7.set=ANDROID_RESOURCE
 198.set=ANDROID_RESOURCE
-262.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+262.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png
 416.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 295.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
 278.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1216,7 +1216,7 @@ count=422
 175.set=ANDROID_RESOURCE
 226.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 383.set=ANDROID_RESOURCE
-252.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+252.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
 27.set=ANDROID_RESOURCE
 285.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
 16.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
@@ -1249,7 +1249,7 @@ count=422
 408.set=ANDROID_RESOURCE
 391.set=ANDROID_RESOURCE
 35.set=ANDROID_RESOURCE
-119.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png
+119.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\common_google_signin_btn_text_dark.xml
 29.file=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
 209.set=ANDROID_RESOURCE
 30.base=C\:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_

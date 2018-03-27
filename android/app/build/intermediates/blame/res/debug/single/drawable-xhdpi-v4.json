@@ -20,16 +20,20 @@
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_search.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\places_ic_search.png"
+    },
+    {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_search.png",
-        "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\places_ic_search.png"
-    },
-    {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_clear.png",
         "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_search.png",
+        "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\places_ic_search.png"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
@@ -44,6 +48,10 @@
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
         "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
@@ -54,6 +62,10 @@
     {
         "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
         "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bubble_mask.9.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\drawable-xhdpi-v4\\bubble_mask.9.png"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
@@ -88,6 +100,10 @@
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
         "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
@@ -96,8 +112,16 @@
         "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
     },
     {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_light.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
+    },
+    {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_light.png",
@@ -110,6 +134,10 @@
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
         "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
@@ -136,8 +164,16 @@
         "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bubble_shadow.9.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\drawable-xhdpi-v4\\bubble_shadow.9.png"
+    },
+    {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
         "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
@@ -146,6 +182,10 @@
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_clear.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\places_ic_clear.png"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
@@ -168,6 +208,10 @@
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
@@ -178,6 +222,10 @@
     {
         "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_clear.png",
         "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.4\\res\\drawable-xhdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
@@ -206,6 +254,10 @@
     {
         "merged": "E:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
         "source": "E:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.4\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",

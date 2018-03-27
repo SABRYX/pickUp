@@ -7,11 +7,14 @@ import {
   Text,
 
 } from 'react-native';
+import FireStore from "./firestore"
 
 class ScreenThree extends Component {
   componentWillMount () {
           const { navigate } = this.props.navigation;
-        setTimeout(() => navigate("ScreenFour", {screen: "Screen Four"}),40);
+        setTimeout(() => {if (FireStore.welcome == true ){navigate("ScreenSix", {screen: "ScreenSix"})}else{
+          navigate("ScreenFour", {screen: "Screen Four"})
+        }},40);
         
 
       }
