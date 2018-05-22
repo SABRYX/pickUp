@@ -15,26 +15,22 @@ class FireStore {
         password:null,
         phoneNumber:null,
     }
-
     @observable Login = {
         email:null,
         password:null,
     }
-
     @observable welcome = false;
 
-
-
-    async registerFirebase(email,password){
+    async registerFirebase(email,password,name,phoneNumber){
         try{
-
-            Firebase.auth.createUserWithEmailAndPassword(email,password)
+            Firebase.auth.createUserWithEmailAndPassword(email,password);
+            Firebase.database.ref("users/").push({
+                username:name,email:email,phoneNumber:phoneNumber,type:"client"
+            })
         }
         catch(error){
             console.log(error.toString())
         }
-
-
     }
 
     async signIn(email,password){
@@ -54,28 +50,39 @@ class FireStore {
                  this.welcome = true;
                  return (<ScreenSix/>)
                 }
-                else{
-                    alert("please make a user")
-                }
               });
         }
         catch(error){
             alert(error)
         }
     }
-
     async logout() {
-
         try {
-    
             await Firebase.auth.signOut();
-    
             // Navigate to login view
-    
         } catch (error) {
             console.log(error);
         }
-    
+    }
+    async auto(){
+         Firebase.auth.onAuthStateChanged(function(user) {
+            if (user) {
+             this.welcome = true;
+             Firebase.auth.setPersistence(firebase.auth.Auth.Persistence.LOCAL)
+             .then(function() {
+                return firebase.auth().signInWithEmailAndPassword(email, password);
+              alert("i did work")
+             })
+             .catch(function(error) {
+               var errorCode = error.code;
+               var errorMessage = error.message;
+             });
+
+            }
+          }); 
+    }
+    async getActiveCars(){
+        
     }
 
 

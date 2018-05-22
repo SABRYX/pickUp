@@ -55,36 +55,13 @@ class ScreenFour extends Component {
         <TouchableHighlight
           color="black"
           style={styles.TouchableHighlight}
-          onPress={ ()=> { FireStore.signIn(FireStore.Login.email,FireStore.Login.password);
-            Firebase.auth.onAuthStateChanged(function(user) {
-            if (user) {
-              
-             this.welcome = true;
-             navigate("ScreenSix", {screen: "ScreenSix"});
-
-
-
-             Firebase.auth.setPersistence(firebase.auth.Auth.Persistence.LOCAL)
-             .then(function() {
-               // Existing and future Auth states are now persisted in the current
-               // session only. Closing the window would clear any existing state even
-               // if a user forgets to sign out.
-               // ...
-               // New sign-in will be persisted with session persistence.
-                return firebase.auth().signInWithEmailAndPassword(email, password);
-              alert("i did work")
-
-
-
-             })
-             .catch(function(error) {
-               // Handle Errors here.
-               var errorCode = error.code;
-               var errorMessage = error.message;
-             });
-
-            }
-          }); } } 
+          onPress={ ()=> { 
+            FireStore.signIn(FireStore.Login.email,FireStore.Login.password);
+            FireStore.auto(FireStore.Login.email,FireStore.Login.password).then(function() {
+              if(FireStore.welcome == true){navigate("ScreenSix", {screen: "ScreenSix"});}
+            })
+            
+          }} 
           >
           <Text style={styles.texts}>LOGIN</Text>
           </TouchableHighlight>

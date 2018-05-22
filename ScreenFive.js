@@ -20,7 +20,8 @@ class ScreenFive extends Component {
   constructor(props) {
     super(props);
 
-    Firebase.init();}
+    // Firebase.init();
+  }
   
 
 
@@ -100,7 +101,7 @@ class ScreenFive extends Component {
           color="black"
           style={styles.TouchableHighlight}
           onPress={() => {
-            FireStore.registerFirebase(FireStore.register.email,FireStore.register.password)
+            FireStore.registerFirebase(FireStore.register.email,FireStore.register.password,FireStore.register.name,FireStore.register.phoneNumber)
             navigate("ScreenFour", { screen: "ScreenFour" });
           }}
           >

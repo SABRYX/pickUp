@@ -39,15 +39,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\libs\infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_4b47ab536255091c51f7803fa2f3f20d3caa58dc.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -147,15 +138,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
-        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.50.3_04a9e37ed160a115973bbdac7812836f9045e3a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -198,15 +180,6 @@
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ac93015a04d21928e2bca2c0af960e3788f9b628.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
-        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.50.3_9b50ff69c84f04a778abf43872ea12ea2a0fb5b0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -327,12 +300,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\libs\infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
-        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.3.4_569c8ffd5325a72e80b6e1a4b35a62aa0b2f2849.jar" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_161f85eed2d203c6a553f9e406faaee470c268ea.jar" />
     </item>
     <item
         is-multidex="false"
@@ -342,6 +315,15 @@
         revision="23.0.1"
         sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
         <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.2.4_de8f5248543fa059d31ee51259ebde22f3df87a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="C:\Users\Mohammed Sabry\pickup2\android\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.3.4_569c8ffd5325a72e80b6e1a4b35a62aa0b2f2849.jar" />
     </item>
     <item
         is-multidex="false"
@@ -462,12 +444,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\libs\infer-annotations-4.0.jar"
+        jar="F:\pickup2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.3\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_87ee3e342465108ec2f88650ec12c840e89a5f0f.jar" />
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="F:\pickup2\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.3_995461249afc54548d063bbf2a0488afe84c34a2.jar" />
     </item>
     <item
         is-multidex="false"

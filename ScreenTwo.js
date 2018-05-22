@@ -22,14 +22,9 @@ class ScreenTwo extends Component {
           Firebase.auth.onAuthStateChanged(function(user) {
             if (user) {
              FireStore.welcome = true;
-             alert("you are logged in my lord")
-            }
-            else{
-                alert("please make a user")
             }
           });
-        setTimeout(() => navigate("ScreenThree", {screen: "Screen Three"}),4000);
-
+          setTimeout(() => navigate("ScreenThree", {screen: "Screen Three"}),4000);
       }
 
   render() {

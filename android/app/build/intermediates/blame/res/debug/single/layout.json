@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\layout\\redbox_item_title.xml"
     },
     {
-        "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -221,7 +221,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fps_view.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\layout\\fps_view.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\layout\\fps_view.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
@@ -389,7 +389,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\layout\\redbox_item_frame.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\layout\\redbox_item_frame.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
@@ -417,7 +417,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dev_loading_view.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\layout\\dev_loading_view.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\layout\\dev_loading_view.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -585,7 +585,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_view.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\layout\\redbox_view.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\layout\\redbox_view.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
@@ -657,7 +657,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_title.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\layout\\redbox_item_title.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\layout\\redbox_item_title.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",

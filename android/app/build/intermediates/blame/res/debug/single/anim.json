@@ -65,7 +65,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\anim\\catalyst_fade_in.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\anim\\catalyst_fade_in.xml"
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
@@ -81,11 +81,11 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\anim\\catalyst_slide_up.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\anim\\catalyst_slide_up.xml"
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\anim\\catalyst_push_up_in.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\anim\\catalyst_push_up_in.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
@@ -113,7 +113,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\anim\\catalyst_fade_out.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\anim\\catalyst_fade_out.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
@@ -209,7 +209,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\anim\\catalyst_push_up_out.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\anim\\catalyst_push_up_out.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
@@ -245,7 +245,7 @@
     },
     {
         "merged": "F:\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
-        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.50.3\\res\\anim\\catalyst_slide_down.xml"
+        "source": "F:\\pickup2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.3\\res\\anim\\catalyst_slide_down.xml"
     },
     {
         "merged": "C:\\Users\\Mohammed Sabry\\pickup2\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",

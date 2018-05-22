@@ -24,6 +24,7 @@ export default class Firebase {
           messagingSenderId: "131345122097"
         });
         Firebase.auth=firebase.auth();
+        Firebase.database=firebase.database();
     }
 
 
