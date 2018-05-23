@@ -101,8 +101,8 @@ class ScreenFive extends Component {
           color="black"
           style={styles.TouchableHighlight}
           onPress={() => {
-            FireStore.registerFirebase(FireStore.register.email,FireStore.register.password,FireStore.register.name,FireStore.register.phoneNumber)
-            navigate("ScreenFour", { screen: "ScreenFour" });
+            FireStore.registerFirebase(FireStore.register.email,FireStore.register.password,FireStore.register.firstName,FireStore.register.lastName,FireStore.register.phoneNumber)
+            navigate("HomeScreen", { screen: "HomeScreen" });
           }}
           >
           <Text style={styles.texts}>SIGN UP</Text>

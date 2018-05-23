@@ -21,11 +21,11 @@ class FireStore {
     }
     @observable welcome = false;
 
-    async registerFirebase(email,password,name,phoneNumber){
+    async registerFirebase(email,password,firstName,lastName,phoneNumber){
         try{
             Firebase.auth.createUserWithEmailAndPassword(email,password);
             Firebase.database.ref("users/").push({
-                username:name,email:email,phoneNumber:phoneNumber,type:"client"
+                username:firstName+" "+lastName,email:email,phoneNumber:phoneNumber,type:"client"
             })
         }
         catch(error){
@@ -82,9 +82,21 @@ class FireStore {
           }); 
     }
     async getActiveCars(){
-        
-    }
+        const rootRef = Firebase.database.ref("users");
+        const cars = rootRef.orderByChild('phoneNumber').equalTo('01012345678');
 
+        const cararray = cars.once("value").then(function(snapshot){ 
+            snapshot.forEach(function(childSnapshot) {
+            // key will be "ada" the first time and "alan" the second time
+            var key = childSnapshot.key;
+            // childData will be the actual contents of the child
+            var childData = childSnapshot.val(); 
+            alert(childData);
+            console.log(childData);
+        })
+    })
+}
+    
 
 
 

@@ -11,6 +11,8 @@ import {
 } from "react-native";
 import MapStore from './MapStore.js';
 import {observer} from "mobx-react";
+import FireStore  from "./firestore";
+
 
 @observer
 class Truck extends Component {
@@ -30,8 +32,15 @@ class Truck extends Component {
           <Text style={styles.TextKilo}> 50kg </Text>
         </TouchableOpacity>
         <View style={styles.SeparatorLine2} />
-        <TouchableOpacity style={styles.truckstyle} activeOpacity={0.4} onPress={ ()=>{this.props.navigation.navigate('ScreenSeven', { screen: 'ScreenSeven' });
-         MapStore.carType = MapStore.carType2;}}
+        <TouchableOpacity 
+          style={styles.truckstyle} 
+          activeOpacity={0.4} 
+          onPress={ ()=>{
+            this.props.navigation.navigate('ScreenSeven', { screen: 'ScreenSeven' });
+            MapStore.carType = MapStore.carType2;
+            FireStore.getActiveCars()
+            
+          }}
         >
           <Image
           source={require("./images/carType2.png")}

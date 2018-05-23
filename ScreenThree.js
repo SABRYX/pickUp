@@ -14,7 +14,7 @@ class ScreenThree extends Component {
           const { navigate } = this.props.navigation;
         setTimeout(() => {if (FireStore.welcome == true ){navigate("ScreenSix", {screen: "ScreenSix"})}else{
           navigate("ScreenFour", {screen: "Screen Four"})
-        }},40);
+        }},4000);
         
 
       }
