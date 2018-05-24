@@ -20,12 +20,16 @@ class FireStore {
         password:null,
     }
     @observable welcome = false;
+    @observable activeCarsArray=[];
 
     async registerFirebase(email,password,firstName,lastName,phoneNumber){
         try{
             Firebase.auth.createUserWithEmailAndPassword(email,password);
             Firebase.database.ref("users/").push({
-                username:firstName+" "+lastName,email:email,phoneNumber:phoneNumber,type:"client"
+                username:firstName+" "+lastName,
+                email:email,
+                phoneNumber:phoneNumber,
+                type:"client"
             })
         }
         catch(error){
@@ -84,19 +88,28 @@ class FireStore {
     async getActiveCars(){
         const rootRef = Firebase.database.ref("users");
         const cars = rootRef.orderByChild('phoneNumber').equalTo('01012345678');
+        var cars2 = []
 
-        const cararray = cars.once("value").then(function(snapshot){ 
+        const cararray = cars.once("value") .then(function(snapshot){ 
             snapshot.forEach(function(childSnapshot) {
             // key will be "ada" the first time and "alan" the second time
-            var key = childSnapshot.key;
+            var key = childSnapshot.val();
             // childData will be the actual contents of the child
-            var childData = childSnapshot.val(); 
-            alert(childData);
-            console.log(childData);
+            var childData = childSnapshot.toJSON();
+            cars2.push(key);
+            console.log(cars2);
+            console.log(childSnapshot.key)
         })
-    })
-}
+        console.log(cars2)
     
+    })
+
+
+
+
+        
+}
+
 
 
 

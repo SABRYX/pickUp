@@ -9,7 +9,7 @@ import {
 class Splash extends Component {
   componentWillMount () {
           const { navigate } = this.props.navigation;
-        setTimeout(() => navigate("ScreenTwo", {screen: "Screen Two"}),4000);
+        setTimeout(() => navigate("ScreenTwo", {screen: "Screen Two"}),40);
 
       }
      
