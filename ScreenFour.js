@@ -45,6 +45,7 @@ class ScreenFour extends Component {
         placeholder="Password"
         underlineColorAndroid="transparent"
         placeholderTextColor="black"
+        secureTextEntry={true}
         style={styles.input}
         onChangeText={(text)=>FireStore.Login.password=text}
         />
